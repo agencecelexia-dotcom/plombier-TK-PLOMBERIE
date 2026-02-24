@@ -58,12 +58,12 @@ const PHOTO_GROUPS: PhotoGroup[] = [
     label: "Realisations — Avant",
     photos: [
       { path: "/images/realisations/sdb-villeurbanne-before.jpeg", filename: "realisations/sdb-villeurbanne-before.jpeg", usage: "Salle de bain Villeurbanne — avant travaux" },
-      { path: "/images/realisations/cuisine-lyon3-before.png", filename: "realisations/cuisine-lyon3-before.png", usage: "Cuisine Lyon 3 — avant travaux" },
+      { path: "/images/realisations/cuisine-lyon3-before.png", filename: "realisations/cuisine-lyon3-before.png", usage: "Cuisine Livry-Gargan — avant travaux" },
       { path: "/images/realisations/chauffe-eau-caluire-before.png", filename: "realisations/chauffe-eau-caluire-before.png", usage: "Chauffe-eau Caluire — avant travaux" },
       { path: "/images/realisations/pac-bron-before.jpeg", filename: "realisations/pac-bron-before.jpeg", usage: "PAC Bron — avant travaux" },
-      { path: "/images/realisations/sdb-pmr-lyon6-before.jpeg", filename: "realisations/sdb-pmr-lyon6-before.jpeg", usage: "SDB PMR Lyon 6 — avant travaux" },
+      { path: "/images/realisations/sdb-pmr-lyon6-before.jpeg", filename: "realisations/sdb-pmr-lyon6-before.jpeg", usage: "SDB PMR Le Raincy — avant travaux" },
       { path: "/images/realisations/chaudiere-tassin-before.png", filename: "realisations/chaudiere-tassin-before.png", usage: "Chaudiere Tassin — avant travaux" },
-      { path: "/images/realisations/douche-lyon7-before.png", filename: "realisations/douche-lyon7-before.png", usage: "Douche Lyon 7 — avant travaux" },
+      { path: "/images/realisations/douche-lyon7-before.png", filename: "realisations/douche-lyon7-before.png", usage: "Douche Bondy — avant travaux" },
       { path: "/images/realisations/plancher-chauffant-ecully-before.png", filename: "realisations/plancher-chauffant-ecully-before.png", usage: "Plancher chauffant Ecully — avant travaux" },
       { path: "/images/realisations/sdb-complete-oullins-before.png", filename: "realisations/sdb-complete-oullins-before.png", usage: "SDB complete Oullins — avant travaux" },
     ],
@@ -72,10 +72,10 @@ const PHOTO_GROUPS: PhotoGroup[] = [
     label: "Realisations — Apres",
     photos: [
       { path: "/images/realisations/sdb-villeurbanne-after.png", filename: "realisations/sdb-villeurbanne-after.png", usage: "Salle de bain Villeurbanne — apres travaux" },
-      { path: "/images/realisations/cuisine-lyon3-after.jpeg", filename: "realisations/cuisine-lyon3-after.jpeg", usage: "Cuisine Lyon 3 — apres travaux" },
+      { path: "/images/realisations/cuisine-lyon3-after.jpeg", filename: "realisations/cuisine-lyon3-after.jpeg", usage: "Cuisine Livry-Gargan — apres travaux" },
       { path: "/images/realisations/chauffe-eau-caluire-after.png", filename: "realisations/chauffe-eau-caluire-after.png", usage: "Chauffe-eau Caluire — apres travaux" },
       { path: "/images/realisations/pac-bron-after.png", filename: "realisations/pac-bron-after.png", usage: "PAC Bron — apres travaux" },
-      { path: "/images/realisations/depannage-lyon2-after.png", filename: "realisations/depannage-lyon2-after.png", usage: "Depannage Lyon 2 — apres travaux" },
+      { path: "/images/realisations/depannage-lyon2-after.png", filename: "realisations/depannage-lyon2-after.png", usage: "Depannage Gagny — apres travaux" },
     ],
   },
 ];
