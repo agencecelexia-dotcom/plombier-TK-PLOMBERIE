@@ -45,17 +45,17 @@ Toutes en 4:3.
 
 | # | Fichier | Prompt |
 |---|---------|--------|
-| 20 | `sdb-livry-gargan-before.webp` | Vieille salle de bain annees 80, baignoire jaunatre, carrelage rose fissure, robinetterie rouillee, photo realiste brute, ratio 4:3 |
-| 21 | `sdb-livry-gargan-after.webp` | Meme salle de bain renovee, douche italienne carrelage gris anthracite, meuble vasque bois clair, miroir LED, photo realiste, ratio 4:3 |
-| 22 | `cuisine-aulnay-before.webp` | Vieille cuisine evier inox use, tuyauterie apparente oxydee, robinet qui goutte, photo realiste, ratio 4:3 |
-| 23 | `cuisine-aulnay-after.webp` | Cuisine moderne evier encastre granit noir, robinet col de cygne chrome, tuyauterie neuve cachee, photo realiste, ratio 4:3 |
-| 24 | `chauffe-eau-bondy-before.webp` | Vieux chauffe-eau rouille encrasse dans placard technique, tuyaux oxydes, photo realiste, ratio 4:3 |
-| 25 | `chauffe-eau-bondy-after.webp` | Chauffe-eau thermodynamique neuf blanc, tuyauterie cuivre neuve, etiquette energie A, photo realiste, ratio 4:3 |
-| 26 | `pac-sevran-before.webp` | Vieille chaudiere fioul volumineuse dans cave sombre, tuyaux rouilles, photo realiste, ratio 4:3 |
-| 27 | `pac-sevran-after.webp` | Pompe a chaleur air-eau compacte installee dans buanderie moderne, ecran digital, photo realiste, ratio 4:3 |
-| 28 | `sdb-pmr-gagny-before.webp` | Salle de bain etroite avec baignoire haute, acces difficile, carrelage glissant, photo realiste, ratio 4:3 |
-| 29 | `chaudiere-blanc-mesnil-before.webp` | Vieille chaudiere gaz murale encrassee, tuyaux anciens, thermostat analogique, photo realiste, ratio 4:3 |
-| 30 | `douche-raincy-before.webp` | Salle de bain avec baignoire classique blanche, murs peints ecailles, sol vinyle use, photo realiste, ratio 4:3 |
-| 31 | `plancher-chauffant-villemomble-before.webp` | Sol brut en beton dans piece en renovation, gaines electriques apparentes, chantier en cours, photo realiste, ratio 4:3 |
-| 32 | `depannage-rosny-after.webp` | Tuyauterie cuivre neuve sous evier, raccords neufs chromes, sol sec, reparation propre, photo realiste, ratio 4:3 |
-| 33 | `sdb-complete-montfermeil-before.webp` | Salle de bain ancienne, carrelage blanc basique, lavabo sur colonne, baignoire jaunatre, eclairage neon, photo realiste, ratio 4:3 |
+| 20 | `sdb-villeurbanne-before.webp` | Vieille salle de bain annees 80, baignoire jaunatre, carrelage rose fissure, robinetterie rouillee, photo realiste brute, ratio 4:3 |
+| 21 | `sdb-villeurbanne-after.webp` | Meme salle de bain renovee, douche italienne carrelage gris anthracite, meuble vasque bois clair, miroir LED, photo realiste, ratio 4:3 |
+| 22 | `cuisine-lyon3-before.webp` | Vieille cuisine evier inox use, tuyauterie apparente oxydee, robinet qui goutte, photo realiste, ratio 4:3 |
+| 23 | `cuisine-lyon3-after.webp` | Cuisine moderne evier encastre granit noir, robinet col de cygne chrome, tuyauterie neuve cachee, photo realiste, ratio 4:3 |
+| 24 | `chauffe-eau-caluire-before.webp` | Vieux chauffe-eau rouille encrasse dans placard technique, tuyaux oxydes, photo realiste, ratio 4:3 |
+| 25 | `chauffe-eau-caluire-after.webp` | Chauffe-eau thermodynamique neuf blanc, tuyauterie cuivre neuve, etiquette energie A, photo realiste, ratio 4:3 |
+| 26 | `pac-bron-before.webp` | Vieille chaudiere fioul volumineuse dans cave sombre, tuyaux rouilles, photo realiste, ratio 4:3 |
+| 27 | `pac-bron-after.webp` | Pompe a chaleur air-eau compacte installee dans buanderie moderne, ecran digital, photo realiste, ratio 4:3 |
+| 28 | `sdb-pmr-lyon6-before.webp` | Salle de bain etroite avec baignoire haute, acces difficile, carrelage glissant, photo realiste, ratio 4:3 |
+| 29 | `chaudiere-tassin-before.webp` | Vieille chaudiere gaz murale encrassee, tuyaux anciens, thermostat analogique, photo realiste, ratio 4:3 |
+| 30 | `douche-lyon7-before.webp` | Salle de bain avec baignoire classique blanche, murs peints ecailles, sol vinyle use, photo realiste, ratio 4:3 |
+| 31 | `plancher-chauffant-ecully-before.webp` | Sol brut en beton dans piece en renovation, gaines electriques apparentes, chantier en cours, photo realiste, ratio 4:3 |
+| 32 | `depannage-lyon2-after.webp` | Tuyauterie cuivre neuve sous evier, raccords neufs chromes, sol sec, reparation propre, photo realiste, ratio 4:3 |
+| 33 | `sdb-complete-oullins-before.webp` | Salle de bain ancienne, carrelage blanc basique, lavabo sur colonne, baignoire jaunatre, eclairage neon, photo realiste, ratio 4:3 |
