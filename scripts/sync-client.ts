@@ -12,7 +12,7 @@ import { resolve, dirname } from "node:path";
 // Helpers
 // ---------------------------------------------------------------------------
 
-const ROOT = resolve(dirname(import.meta.url.replace("file:///", "")), "..");
+const ROOT = resolve(dirname(new URL(import.meta.url).pathname), "..");
 const CLIENT_MD = resolve(ROOT, "CLIENT.md");
 const OUTPUT = resolve(ROOT, "src/config/client.config.ts");
 
