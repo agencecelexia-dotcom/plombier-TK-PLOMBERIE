@@ -219,6 +219,17 @@ export function Footer() {
               &copy; {new Date().getFullYear()} {siteConfig.legalName} — SIRET{" "}
               {siteConfig.siret}
             </p>
+            <p>
+              Site réalisé par{" "}
+              <a
+                href="https://agencecelexia.fr"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-accent-400 transition-colors duration-200"
+              >
+                Agence Celexia
+              </a>
+            </p>
             <div className="flex items-center gap-4">
               <Link
                 href="/mentions-legales"
